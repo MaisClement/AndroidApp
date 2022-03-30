@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.timothee.roomexemple.MainActivity">
+    <item
+        android:id="@+id/supprime_toutes_competences"
+        android:orderInCategory="100"
+        android:title="@string/supprime_tout"
+        app:showAsAction="never" />
+</menu>
